@@ -119,3 +119,6 @@ data/
 VariationalAutoencoder_files/
 VariationalAutoencoder.md
 __pycache__/
+
+1b-results.pkl
+1c-results.pkl
